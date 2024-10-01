@@ -1,0 +1,4 @@
+psycopg2==2.9.6
+pandas==1.5.3
+scipy==1.10.1
+
